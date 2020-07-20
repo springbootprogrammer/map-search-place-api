@@ -1,0 +1,5 @@
+com\location\parking\parkingspots\bean\ParkingSpots.class
+com\location\parking\parkingspots\ParkingSpotsApplication.class
+com\location\parking\parkingspots\bean\ParkingSpotslocation.class
+com\location\parking\parkingspots\controller\ParkingSpotsResource.class
+com\location\parking\parkingspots\service\ParkingSpotsService.class
