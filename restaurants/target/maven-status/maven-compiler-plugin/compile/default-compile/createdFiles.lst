@@ -1,0 +1,5 @@
+com\location\restaurants\service\RestaurantService.class
+com\location\restaurants\bean\Restaurant.class
+com\location\restaurants\bean\Restaurantlocation.class
+com\location\restaurants\controller\RestaurantResource.class
+com\location\restaurants\RestaurantsApplication.class
