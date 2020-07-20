@@ -1,0 +1,5 @@
+com\location\stations\charging\chargingstations\bean\ChargingStation.class
+com\location\stations\charging\chargingstations\ChargingStationsApplication.class
+com\location\stations\charging\chargingstations\controller\ChargingStationResource.class
+com\location\stations\charging\chargingstations\bean\ChargingStationlocation.class
+com\location\stations\charging\chargingstations\service\ChargingStationService.class
