@@ -7,3 +7,4 @@
 # http://localhost:8300/mapPlaceSearch/bangalore
 # http://localhost:8300/mapPlaceSearch/pune
 #Implemented junit for all services
+#Test the junit run the mvn clean install to respective services.
